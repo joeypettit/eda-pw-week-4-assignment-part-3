@@ -112,14 +112,6 @@ console.log(basket);
 console.log(removeItem("bacon"));
 console.log(basket);
 
-/*
-
-
-
-
-
-
-*/
 
 
 
